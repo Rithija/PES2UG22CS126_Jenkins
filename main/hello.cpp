@@ -6,6 +6,7 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run this  \n";
-  cout<<"Lab 8 documentation has been so bad, I want to scream";
+  cout<<"Lab 8 documentation has been so bad, I want to scream\n";
+  cout<<"I want to go back home";
   return 0;
 }
